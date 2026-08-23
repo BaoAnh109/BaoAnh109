@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" />
 </p>
 
-<h3 align="center">Aspiring Software Engineer | Second-Year IT Student | Passionate about Building Real-World Solutions</h3>
+<h3 align="center">Aspiring Software Engineer | Third-Year IT Student | Passionate about Building Real-World Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/BaoAnh109">
@@ -30,7 +30,7 @@
 
 ## 👤 About Me
 
-I am **Tran Bao Anh**, a second-year student at **Ho Chi Minh City University of Industry and Trade**.  
+I am **Tran Bao Anh**, a third-year student at **Ho Chi Minh City University of Industry and Trade**.  
 I am currently working toward becoming a **Software Engineer**, with a strong interest in building solid programming foundations, solving problems effectively, and developing practical software solutions.
 
 I enjoy learning new technologies, improving my engineering mindset, and turning ideas into meaningful projects through clean and structured development practices.
@@ -166,20 +166,29 @@ My goal is not only to write code that works, but also to write code that is **c
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BaoAnh109&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoAnh109&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaoAnh109&theme=tokyonight"
+    alt="Bao Anh GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaoAnh109&theme=tokyonight"
+    alt="Bao Anh Top Languages"
+  />
 </p>
 
+### 📈 Contribution Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BaoAnh109&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaoAnh109&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&v=10"
-  height="300"/>
+  <img src="https://streak-stats.demolab.com?user=BaoAnh109&theme=tokyonight&hide_border=true&timezone=%2B7" alt="GitHub Streak" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BaoAnh109&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    alt="Bao Anh Contribution Graph"
+  />
 </p>
 
 ---
@@ -202,7 +211,7 @@ My goal is not only to write code that works, but also to write code that is **c
 
 ## A Few Things About Me
 
-- Second-year IT student with a strong passion for software development
+- Third-year IT student with a strong passion for software development
 - Interested in building practical and meaningful applications
 - Enjoy learning from fundamentals to advanced topics
 - Always trying to improve through every project and every line of code
